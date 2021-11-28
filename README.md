@@ -4,7 +4,7 @@
   ☼Plants
   ☼Programming
 - 🌱 I’d love to make a game in nearest furture
-- 📫 Just dm me if you want to talk . i really appreciate it
+- 📫 Just dm me if you want to talk , I really appreciate it
 
 <!---
 Suriel01/Suriel01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
